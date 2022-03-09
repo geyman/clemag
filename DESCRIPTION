@@ -1,0 +1,11 @@
+Package: clemag
+Type: Package
+Title: Clean Marker Genotype Data
+Version: 0.1.0
+Date: 2022-03-09
+Author: Manuel Geyer
+Maintainer: Manuel Geyer <manuel.geyer@lfl.bayern.de>
+Description: Package for cleaning marker genotype data using the Rcpp library
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.7)
+LinkingTo: Rcpp
